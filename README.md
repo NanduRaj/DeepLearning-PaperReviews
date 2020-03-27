@@ -1,2 +1,2 @@
 # DeepLearning
-An introductory descriptions for fa,ous Deeplearning papers
+An introductory descriptions for famous Deeplearning papers
